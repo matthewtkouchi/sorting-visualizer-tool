@@ -1,0 +1,23 @@
+Components:
+    -Visualizer
+    -Navbar
+
+What is kept track of for eacy Component:
+    -Visualizer
+        - State of the array (what indexs are being compared, what indexes are moving, what indexes are fully sorted)
+        - Input of the array (what is the array size, what is the array speed)
+        - Is an algorithm running
+    -Navbar 
+        - Disable button prop if algorithm is running
+        - What algorithm was clicked (so we can set the color darker)
+
+Tools The App Should Have:
+    -Generate New Array Button 
+    -Algo Buttons
+        -Tinted darker when the selected algo is running
+        -When algo is running, all buttons are disabled
+    -Input range sliders that directly update the arrays size and speed of animation
+    -Animations
+        -colored if two indexs are compared
+        -keep track of movement in the array and follow with color
+        -fully sorted array divs will be color coded

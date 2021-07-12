@@ -1,0 +1,19 @@
+.array-container {
+  width: auto;
+  display: flex;
+  position: fixed;
+  padding: 30px;
+  margin-top: 25px;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+  transform: rotate(180deg) translate(50%, 0);
+  left: 50%;
+}
+
+.title {
+  position: relative;
+  color: grey;
+  font-size: 1.5rem;
+  font-weight: 300;
+  top: 15px;
+  left: 42%;
+}
