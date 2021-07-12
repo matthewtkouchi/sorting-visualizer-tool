@@ -15,11 +15,10 @@ Each algorithm file included has a short pseudo description of the basic idea of
 
 1. Clone this repository to a local folder, see reference here [https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository]
 
-2. Open the folder in editor of choice, or enter the directory
-   $ cd my-app
+2. Open the folder in visual studio code
 
 3. Install the dependencies
    $ npm install
 
-4. Run the application on your local network
+4. Run the application on your local network with vscode open
    $ npm start
