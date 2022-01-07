@@ -22,3 +22,8 @@ Each algorithm file included has a short pseudo description of the basic idea of
 
 4. Run the application on your local network with vscode open
    $ npm start
+
+Heres How The Tool Should Run
+
+https://user-images.githubusercontent.com/76194477/148545196-fb84d9de-d0db-4f8e-b4b5-fee579ae24ad.mp4
+
